@@ -1,0 +1,22 @@
+.formItemNewView {
+  margin-left: 20PX;
+  margin-right: 20PX;
+  margin-top: 10PX;
+  margin-bottom: 10PX;
+}
+
+.formItemName {
+  color: '#000';
+  font-size: 12PX;
+}
+
+.formItemView {
+  background-color: '#F3F5F4';
+  margin-top: 10PX;
+  padding-left: 10PX;
+  padding-right: 10PX;
+  height: 45;
+  justify-content: 'space-between';
+  flex-direction: 'row';
+  align-items: 'center';
+}
